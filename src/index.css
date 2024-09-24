@@ -1,0 +1,10 @@
+::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
